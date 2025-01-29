@@ -1,7 +1,13 @@
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
+dill
+pickle
 streamlit
 streamlit-option-menu
 numpy
-gunicorn
+-e .
 
-# Local packages
 

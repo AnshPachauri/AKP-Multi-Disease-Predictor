@@ -1,6 +1,7 @@
 streamlit
 streamlit-option-menu
 numpy
+gunicorn
 
 # Local packages
 
